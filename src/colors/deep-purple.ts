@@ -1,0 +1,35 @@
+import { dark } from './blacks';
+import { light } from './whites';
+
+export const deepPurple = {
+  50: '#ede7f6',
+  100: '#d1c4e9',
+  200: '#b39ddb',
+  300: '#9575cd',
+  400: '#7e57c2',
+  500: '#673ab7',
+  600: '#5e35b1',
+  700: '#512da8',
+  800: '#4527a0',
+  900: '#311b92',
+  A100: '#b388ff',
+  A200: '#7c4dff',
+  A400: '#651fff',
+  A700: '#6200ea',
+};
+export const onDeepPurple = {
+  50: dark.primary,
+  100: dark.primary,
+  200: dark.primary,
+  300: light.primary,
+  400: light.primary,
+  500: light.primary,
+  600: light.primary,
+  700: light.primary,
+  800: light.primary,
+  900: light.primary,
+  A100: dark.primary,
+  A200: light.primary,
+  A400: light.primary,
+  A700: light.primary,
+};

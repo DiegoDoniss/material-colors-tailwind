@@ -1,0 +1,22 @@
+export { amber, onAmber } from './colors/amber';
+export { black, dark } from './colors/blacks';
+export { blue, onBlue } from './colors/blue';
+export { blueGrey, onBlueGrey } from './colors/blue-grey';
+export { brown, onBrown } from './colors/brown';
+export { cyan, oneCyan } from './colors/cyan';
+export { deepOrange, onDeepOrange } from './colors/deep-orange';
+export { deepPurple, onDeepPurple } from './colors/deep-purple';
+export { green, onGreen } from './colors/green';
+export { grey, onGrey } from './colors/grey';
+export { indigo, onIndigo } from './colors/indigo';
+export { lightBlue, oneLightBlue } from './colors/light-blue';
+export { lightGreen, onLightGreen } from './colors/light-green';
+export { lime, onLime } from './colors/lime';
+export { orange, onOrange } from './colors/orange';
+export { pink, onPink } from './colors/pink';
+export { purple, onPurple } from './colors/purple';
+export { red, onRed } from './colors/red';
+export { teal, onTeal } from './colors/teal';
+export { white, light } from './colors/whites';
+export { onYellow } from './colors/yellow';
+
