@@ -32,7 +32,7 @@
     "trailingComma": "es5"
   },
   "name": "material-colors-tailwind",
-  "author": "diego donis",
+  "author": "Diego Donis",
   "module": "dist/material-colors-tailwind.esm.js",
   "size-limit": [
     {
