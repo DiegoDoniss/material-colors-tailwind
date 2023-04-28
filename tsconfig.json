@@ -5,14 +5,6 @@
     "types"
   ],
   "compilerOptions": {
-    "paths": {
-      "@/*": [
-        "src/*"
-      ],
-      "@colors/*": [
-        "src/colors/*"
-      ]
-    },
     "module": "esnext",
     "lib": [
       "dom",
