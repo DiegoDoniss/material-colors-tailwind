@@ -16,7 +16,7 @@ export const grey = {
   A200: '#eeeeee',
   A400: '#bdbdbd',
   A700: '#616161',
-}
+};
 export const onGrey = {
   50: dark.primary,
   100: dark.primary,
@@ -32,4 +32,4 @@ export const onGrey = {
   A200: dark.primary,
   A400: dark.primary,
   A700: light.primary,
-}
+};

@@ -1,7 +1,7 @@
-import { red } from '../src';
+import { colors } from '../src';
 
 describe('Check a red color', () => {
   it('get a color', () => {
-    expect(red['500']).toBe('#f44336');
+    expect(colors.red['500']).toBe('#f44336');
   });
 });
